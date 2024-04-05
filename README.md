@@ -23,6 +23,7 @@ This isn't official API support and etc. This is just a scraper that is using Ti
 And this isn't sharing python code, because code is for selling.
 
 ---
+![image](https://github.com/ali20042004/TikTok-Scraper-Telegram/assets/37172880/d8da6a78-5b3b-42d8-9135-823cb0dd2f54)
 
 ---
 License
